@@ -1,0 +1,42 @@
+
+main{
+    background-color: antiquewhite;
+    height: 90svh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fg-general-container{
+    background-color: rgb(58, 41, 19);
+    width: 400px;
+    height: 600px;
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:space-around;
+    
+
+}
+.fg-window-game{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+}
+.fg-window-word{
+    border: 2px solid black;
+    width: 300px;
+    height: 80px;
+    background-color: aqua;
+
+    
+}
+.fg-input-container{
+    border: 2px solid black;
+    width: 300px;
+    height: 80px;
+    background-color: beige;
+
+}
+
